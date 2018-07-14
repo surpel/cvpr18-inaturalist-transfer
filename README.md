@@ -2,7 +2,7 @@
 
 This repository contains the **iNaturalist mini validation set** (./inat_minival.txt) used in our paper:
 
-[*Large Scale Fine-Grained Categorization  and Domain-Specific Transfer Learning*](https://vision.cornell.edu/se3/wp-content/uploads/2018/03/FGVC_CVPR_2018.pdf)\
+[*Large Scale Fine-Grained Categorization  and Domain-Specific Transfer Learning*](https://arxiv.org/abs/1806.06193)\
 [Yin Cui](http://www.cs.cornell.edu/~ycui/), [Yang Song](https://ai.google/research/people/author38270), [Chen Sun](http://chensun.me/), Andrew Howard, [Serge Belongie](http://blogs.cornell.edu/techfaculty/serge-belongie/)\
 CVPR 2018
 
